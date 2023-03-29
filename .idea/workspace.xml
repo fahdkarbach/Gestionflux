@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="108c2c24-9257-43d3-9ea0-408157a369b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/login-component/login-component.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/login-component/login-component.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/login-component/login-component.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/app/login-component/login-component.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2NeWmPPwEFnyONpqdr3IUqQBd0k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Fahd KARBACH/Documents/Gestionflux",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "spring.configuration.checksum": "190526a1449b3d4bdbff7dbffbe0d346",
+    "ts.external.directory.path": "C:\\Users\\Fahd KARBACH\\Documents\\Gestionflux\\login-app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (login-app)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/login-app/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$/login-app" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (login-app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/login-app/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/login-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108c2c24-9257-43d3-9ea0-408157a369b1" name="Changes" comment="" />
+      <created>1680025188296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680025188296</updated>
+      <workItem from="1680025189543" duration="2256000" />
+      <workItem from="1680082092029" duration="5992000" />
+      <workItem from="1680088157379" duration="2786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
